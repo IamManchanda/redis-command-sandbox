@@ -1,0 +1,6 @@
+h?llo matches hello, hallo and hxllo
+h*llo matches hllo and heeeello
+h[ae]llo matches hello and hallo, but not hillo
+h[^e]llo matches hallo, hbllo, ... but not hello
+h[a-c]llo matches hallo and hbllo and hcllo
+h???? matches any chars that has h as first char and has in total 5 chars
