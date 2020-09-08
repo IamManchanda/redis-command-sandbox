@@ -1,0 +1,3 @@
+# ttl key
+
+ttl a
