@@ -1,0 +1,3 @@
+# hgetall student
+
+hgetall student
