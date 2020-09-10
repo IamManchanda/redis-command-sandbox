@@ -1,0 +1,3 @@
+# lpop key
+
+lpop fruit

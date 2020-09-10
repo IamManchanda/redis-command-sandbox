@@ -1,0 +1,3 @@
+# rpop key
+
+rpop fruit
