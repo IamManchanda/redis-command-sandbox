@@ -1,0 +1,3 @@
+# smembers key
+
+smembers party
