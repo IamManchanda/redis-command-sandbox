@@ -1,3 +1,3 @@
-# decrby key decrement
+# DECRBY key decrement
 
-decrby score 5
+DECRBY score 5

@@ -1,3 +1,3 @@
-# decr key
+# DECR key
 
-decr score
+DECR score

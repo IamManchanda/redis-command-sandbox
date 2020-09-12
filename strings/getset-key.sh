@@ -1,4 +1,4 @@
-# getset key value
+# GETSET key value
 
-getset 1 bye
-getset 2 hello
+GETSET 1 bye
+GETSET 2 hello

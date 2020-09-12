@@ -1,8 +1,8 @@
-# getrange key start end
+# GETRANGE key start end
 
-getrange name 0 3
-getrange name 3 4
-getrange name 0 -1
-getrange name 0 -1
-getrange name 0 -2
-getrange name -3 -2
+GETRANGE name 0 3
+GETRANGE name 3 4
+GETRANGE name 0 -1
+GETRANGE name 0 -1
+GETRANGE name 0 -2
+GETRANGE name -3 -2

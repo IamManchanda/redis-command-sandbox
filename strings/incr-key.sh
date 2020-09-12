@@ -1,3 +1,3 @@
-# incr key
+# INCR key
 
-incr score
+INCR score

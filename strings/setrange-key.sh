@@ -1,3 +1,3 @@
-# setrange key offset value
+# SETRANGE key offset value
 
-setrange k1 6 Redis
+SETRANGE k1 6 Redis

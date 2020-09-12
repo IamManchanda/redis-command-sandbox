@@ -1,3 +1,3 @@
-# strlen key
+# STRLEN key
 
-strlen k1
+STRLEN k1

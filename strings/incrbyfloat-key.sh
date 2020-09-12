@@ -1,6 +1,6 @@
-# incrbyfloat key increment
+# INCRBYFLOAT key increment
 
-incrbyfloat num 1.0
-incrbyfloat num 1.2
-incrbyfloat num 1
-incrbyfloat num 0.4
+INCRBYFLOAT num 1.0
+INCRBYFLOAT num 1.2
+INCRBYFLOAT num 1
+INCRBYFLOAT num 0.4

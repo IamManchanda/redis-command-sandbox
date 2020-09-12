@@ -1,10 +1,10 @@
-# set key value [EX seconds|PX milliseconds] [NX|XX] [KEEPTTL]
+# SET key value [EX seconds|PX milliseconds] [NX|XX] [KEEPTTL]
 
-set 1 hello nx
-set 4 hello nx
+SET 1 hello NX
+SET 4 hello NX
 
-set 5 hello xx
+SET 5 hello XX
 
-set num 1.0
+SET num 1.0
 
-set k1 "Hello World"
+SET k1 "Hello World"

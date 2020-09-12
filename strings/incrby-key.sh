@@ -1,3 +1,3 @@
-# incrby key increment
+# INCRBY key increment
 
-incrby score 5
+INCRBY score 5

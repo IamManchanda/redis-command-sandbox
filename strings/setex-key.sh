@@ -1,3 +1,3 @@
-# setex key seconds value
+# SETEX key seconds value
 
-setex a 5 hello
+SETEX a 5 hello

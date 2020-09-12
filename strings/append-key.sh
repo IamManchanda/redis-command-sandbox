@@ -1,3 +1,3 @@
-# append key value
+# APPEND key value
 
-append greeting world
+APPEND greeting world

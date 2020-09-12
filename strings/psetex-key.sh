@@ -1,3 +1,3 @@
-# psetex key milliseconds value
+# PSETEX key milliseconds value
 
-psetex a 10000 hello
+PSETEX a 10000 hello

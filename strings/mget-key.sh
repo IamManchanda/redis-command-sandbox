@@ -1,4 +1,4 @@
-# mget key [key ...]
+# MGET key [key ...]
 
-mget 1 2 3
-mget 5 6
+MGET 1 2 3
+MGET 5 6
