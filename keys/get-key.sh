@@ -1,4 +1,4 @@
-# get key
+# GET key
 
-get 1
-get name
+GET 1
+GET name

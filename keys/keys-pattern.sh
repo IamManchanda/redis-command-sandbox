@@ -1,3 +1,3 @@
-# keys pattern
+# KEYS pattern
 
-keys *
+KEYS *

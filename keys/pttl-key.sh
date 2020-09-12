@@ -1,3 +1,3 @@
-# pttl key
+# PTTL key
 
-pttl 1
+PTTL 1

@@ -1,4 +1,4 @@
-# del key [key ...]
+# DEL key [key ...]
 
-del 1
-del 2 3
+DEL 1
+DEL 2 3

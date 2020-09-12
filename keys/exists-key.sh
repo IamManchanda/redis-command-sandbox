@@ -1,5 +1,5 @@
-# exists key [key ...]
+# EXISTS key [key ...]
 
-exists 1
-exists name
-exists 1 name
+EXISTS 1
+EXISTS name
+EXISTS 1 name

@@ -1,3 +1,3 @@
-# randomkey
+# RANDOMKEY
 
-randomkey
+RANDOMKEY

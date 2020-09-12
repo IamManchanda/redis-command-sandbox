@@ -1,3 +1,3 @@
-# ttl key
+# TTL key
 
-ttl a
+TTL a

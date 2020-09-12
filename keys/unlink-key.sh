@@ -1,4 +1,4 @@
-# unlink key [key ...]
+# UNLINK key [key ...]
 
-unlink 1
-unlink 2 3
+UNLINK 1
+UNLINK 2 3

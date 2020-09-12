@@ -1,8 +1,8 @@
-# set key value [EX seconds|PX milliseconds] [NX|XX] [KEEPTTL]
+# SET key value [EX seconds|PX milliseconds] [NX|XX] [KEEPTTL]
 
-set 1 "hello"
-set name "Harry Manchanda"
-set 2 "super"
-set 3 "nexus"
-set a "hello" ex 20 # or, `set a "hello"` && `expire a 20` and, `persist a` for undo
-set 1 "hello" px 200000 # or, `set 1 "hello"` && `pexpire 1 200000` and, `persist 1` for undo
+SET 1 "hello"
+SET name "Harry Manchanda"
+SET 2 "super"
+SET 3 "nexus"
+SET a "hello" EX 20 # or, `SET a "hello"` && `EXPIRE a 20` and, `PERSIST a` for undo
+SET 1 "hello" PX 200000 # or, `SET 1 "hello"` && `PEXPIRE 1 200000` and, `PERSIST 1` for undo
