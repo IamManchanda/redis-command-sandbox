@@ -1,3 +1,3 @@
-# zcard key
+# ZCARD key
 
-zcard name
+ZCARD name

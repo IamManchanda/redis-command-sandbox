@@ -1,3 +1,3 @@
-# zrem key member [member ...]
+# ZREM key member [member ...]
 
-zrem name Max Bob
+ZREM name Max Bob

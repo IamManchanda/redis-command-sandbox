@@ -1,4 +1,4 @@
-# zscore key member
+# ZSCORE key member
 
-zscore name Alex
-zscore name Rob
+ZSCORE name Alex
+ZSCORE name Rob
