@@ -1,3 +1,3 @@
 # spop key [count]
 
-smembers picnic
+spop picnic
