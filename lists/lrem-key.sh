@@ -1,6 +1,6 @@
-# lrem key count element
+# LREM key count element
 
-lrem fruit 1 mango
-lrem fruit 2 mango
-lrem fruit -4 mango
-lrem fruit 0 mango
+LREM fruit 1 mango
+LREM fruit 2 mango
+LREM fruit -4 mango
+LREM fruit 0 mango

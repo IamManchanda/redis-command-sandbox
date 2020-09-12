@@ -1,3 +1,3 @@
-# llen key
+# LLEN key
 
-llen fruit
+LLEN fruit

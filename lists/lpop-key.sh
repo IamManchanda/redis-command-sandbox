@@ -1,3 +1,3 @@
-# lpop key
+# LPOP key
 
-lpop fruit
+LPOP fruit

@@ -1,5 +1,5 @@
-# ltrim key start stop
+# LTRIM key start stop
 
-ltrim fruit 1 -2
-ltrim fruit 0 3
-ltrim fruit 0 1
+LTRIM fruit 1 -2
+LTRIM fruit 0 3
+LTRIM fruit 0 1

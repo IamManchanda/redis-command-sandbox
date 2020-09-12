@@ -1,3 +1,3 @@
-# lpushx key element [element ...]
+# LPUSHX key element [element ...]
 
-lpushx fruit peach # only works if key `fruit` is available
+LPUSHX fruit peach # only works if key `fruit` is available

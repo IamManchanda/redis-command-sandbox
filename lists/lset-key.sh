@@ -1,5 +1,5 @@
-# lset key index element
+# LSET key index element
 
-lset fruit 0 banana
-lset fruit -1 banana
-lset fruit 0 mango
+LSET fruit 0 banana
+LSET fruit -1 banana
+LSET fruit 0 mango

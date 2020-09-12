@@ -1,3 +1,3 @@
-# rpop key
+# RPOP key
 
-rpop fruit
+RPOP fruit

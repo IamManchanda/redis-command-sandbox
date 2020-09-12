@@ -1,5 +1,5 @@
-# lpush key element [element ...]
+# LPUSH key element [element ...]
 
-lpush fruit mango
-lpush fruit banana watermelon
-lpush fruit grape
+LPUSH fruit mango
+LPUSH fruit banana watermelon
+LPUSH fruit grape

@@ -1,3 +1,3 @@
-# lindex key index
+# LINDEX key index
 
-lindex fruit 0
+LINDEX fruit 0

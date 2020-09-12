@@ -1,4 +1,4 @@
-# linsert key BEFORE|AFTER pivot element
+# LINSERT key BEFORE|AFTER pivot element
 
-linsert fruit before mango peach
-linsert fruit after banana grape
+LINSERT fruit before mango peach
+LINSERT fruit after banana grape

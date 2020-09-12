@@ -1,3 +1,3 @@
-# rpush key element [element ...]
+# RPUSH key element [element ...]
 
-rpush fruit pineapple
+RPUSH fruit pineapple
