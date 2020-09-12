@@ -1,3 +1,3 @@
-# srem key member [member ...]
+# SREM key member [member ...]
 
-srem party Rob Sam
+SREM party Rob Sam

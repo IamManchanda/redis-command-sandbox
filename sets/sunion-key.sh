@@ -1,3 +1,3 @@
-# sunion key [key ...]
+# SUNION key [key ...]
 
-sunion party picnic
+SUNION party picnic

@@ -1,3 +1,3 @@
-# smembers key
+# SMEMBERS key
 
-smembers party
+SMEMBERS party

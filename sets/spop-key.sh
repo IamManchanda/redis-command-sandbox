@@ -1,3 +1,3 @@
-# spop key [count]
+# SPOP key [count]
 
-spop picnic
+SPOP picnic

@@ -1,4 +1,4 @@
-# srandmember key [count]
+# SRANDMEMBER key [count]
 
-srandmember picnic
-srandmember party 2
+SRANDMEMBER picnic
+SRANDMEMBER party 2

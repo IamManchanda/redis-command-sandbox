@@ -1,4 +1,4 @@
-# smove source destination member
+# SMOVE source destination member
 
-smove party picnic Rob
-smove party picnic abc # will only update if exists in source
+SMOVE party picnic Rob
+SMOVE party picnic abc # will only update if exists in source

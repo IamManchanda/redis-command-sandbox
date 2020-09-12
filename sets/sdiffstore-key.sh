@@ -1,3 +1,3 @@
-# sdiffstore destination key [key ...]
+# SDIFFSTORE destination key [key ...]
 
-sdiffstore operate party picnic
+SDIFFSTORE operate party picnic

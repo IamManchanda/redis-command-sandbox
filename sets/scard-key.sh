@@ -1,3 +1,3 @@
-# scard key
+# SCARD key
 
-scard party
+SCARD party

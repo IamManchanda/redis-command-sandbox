@@ -1,3 +1,3 @@
-# sunionstore destination key [key ...]
+# SUNIONSTORE destination key [key ...]
 
-sunionstore operate party picnic
+SUNIONSTORE operate party picnic

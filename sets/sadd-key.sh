@@ -1,6 +1,6 @@
-# sadd key member [member ...]
+# SADD key member [member ...]
 
-sadd party Bob Rob Robert Sam
-sadd picnic ray max
-sadd party Smith Greg Rob
-sadd picnic Bob John Rob
+SADD party Bob Rob Robert Sam
+SADD picnic ray max
+SADD party Smith Greg Rob
+SADD picnic Bob John Rob

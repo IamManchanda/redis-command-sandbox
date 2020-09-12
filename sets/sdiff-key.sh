@@ -1,4 +1,4 @@
-# sdiff key [key ...]
+# SDIFF key [key ...]
 
-sdiff party picnic # party - picnic
-sdiff picnic party # picnic - party
+SDIFF party picnic # party - picnic
+SDIFF picnic party # picnic - party

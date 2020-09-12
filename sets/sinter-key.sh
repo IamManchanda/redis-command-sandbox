@@ -1,3 +1,3 @@
-# sinter key [key ...]
+# SINTER key [key ...]
 
-sinter party picnic
+SINTER party picnic

@@ -1,3 +1,3 @@
-# sinterstore destination key [key ...]
+# SINTERSTORE destination key [key ...]
 
-sinterstore operate party picnic
+SINTERSTORE operate party picnic

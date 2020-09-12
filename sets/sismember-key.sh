@@ -1,5 +1,5 @@
-# sismember key member
+# SISMEMBER key member
 
-sismember party bob # case sensitive
-sismember party Bob
-sismember party Rob
+SISMEMBER party bob # case sensitive
+SISMEMBER party Bob
+SISMEMBER party Rob
