@@ -1,4 +1,4 @@
-# hincrby key field increment
+# HINCRBY key field increment
 
-hincrby student height 1 # won't work if the field is a float before increment
-hincrby student goals 1
+HINCRBY student height 1 # won't work if the field is a float before increment
+HINCRBY student goals 1

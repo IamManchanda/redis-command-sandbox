@@ -1,3 +1,3 @@
-# hvals key
+# HVALS key
 
-hvals student
+HVALS student

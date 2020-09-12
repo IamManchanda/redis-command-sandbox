@@ -1,3 +1,3 @@
-# hstrlen key field
+# HSTRLEN key field
 
-hstrlen student name
+HSTRLEN student name

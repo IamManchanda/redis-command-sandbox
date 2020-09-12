@@ -1,4 +1,4 @@
-#  hmget key field [field ...]
+#  HMGET key field [field ...]
 
-hmget student name age
-hmget student name age abcd # nil for non existing fields
+HMGET student name age
+HMGET student name age abcd # nil for non existing fields

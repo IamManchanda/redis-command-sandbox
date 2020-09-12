@@ -1,3 +1,3 @@
-# hdel key field [field ...]
+# HDEL key field [field ...]
 
-hdel student weight
+HDEL student weight

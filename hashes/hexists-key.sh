@@ -1,4 +1,4 @@
-# hexists key field
+# HEXISTS key field
 
-hexists student abcd # 0
-hexists student name # 1
+HEXISTS student abcd # 0
+HEXISTS student name # 1

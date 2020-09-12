@@ -1,4 +1,4 @@
-# hgetall key
+# HGETALL key
 
-hgetall student
-hgetall stu # empty array result if key doesn't exist
+HGETALL student
+HGETALL stu # empty array result if key doesn't exist

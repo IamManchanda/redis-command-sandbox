@@ -1,3 +1,3 @@
-# hkeys key
+# HKEYS key
 
-hkeys student
+HKEYS student

@@ -1,3 +1,3 @@
-# hlen key
+# HLEN key
 
-hlen student
+HLEN student

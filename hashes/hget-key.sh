@@ -1,5 +1,5 @@
-#  hget key field value [field value ...]
+#  HGET key field value [field value ...]
 
-hget student name Rob
-hget student age
-hget stu abcd # nil result if key doesn't exist
+HGET student name Rob
+HGET student age
+HGET stu abcd # nil result if key doesn't exist
