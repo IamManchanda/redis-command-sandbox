@@ -17,3 +17,7 @@ ZADD name 5 James 7 William
 
 ZADD z1 1 Hey 2 Hello
 ZADD z2 1 Bye 3 Hello
+
+ZADD name 1 Rob 1 Bob 1 Alex 1 Sam 1 Andrew
+
+ZADD name 1 Rob 1 Alex 1 Andrew 1 Bob

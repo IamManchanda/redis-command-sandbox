@@ -1,0 +1,3 @@
+# ZREMRANGEBYRANK key start stop
+
+ZREMRANGEBYRANK name 0 1
