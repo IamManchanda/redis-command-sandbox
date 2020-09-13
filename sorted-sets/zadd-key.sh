@@ -12,3 +12,5 @@ ZADD name 1 Rob 1 Bob 1 Andrew 1 Max
 ZADD name ch 0 Alex 2 Arthur
 
 ZADD name incr 2 Bob # increment score by 2
+
+ZADD name 5 James 7 William
