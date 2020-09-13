@@ -14,3 +14,6 @@ ZADD name ch 0 Alex 2 Arthur
 ZADD name incr 2 Bob # increment score by 2
 
 ZADD name 5 James 7 William
+
+ZADD z1 1 Hey 2 Hello
+ZADD z2 1 Bye 3 Hello
