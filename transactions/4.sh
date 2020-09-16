@@ -1,0 +1,21 @@
+SET bank1 1000
+SET bank2 2000
+
+MULTI
+INCRBY bank1 100
+EXEC
+GET bank1 # 1100
+
+WATCH bank1
+INCRBY bank1 100
+EXEC
+GET bank1 # 1200
+
+WATCH bank1
+INCRBY bank1 200
+GET bank1 # 1400
+
+MULTI
+INCRBY bank1 100
+EXEC # nil
+GET bank1 # 1400
