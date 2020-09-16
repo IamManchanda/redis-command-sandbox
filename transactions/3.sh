@@ -1,0 +1,10 @@
+SET bank1 1000
+SET bank2 2000
+
+MULTI
+INCRBY bank1 100
+INCRBY bank2 100
+DISCARD
+EXEC # (error) ERR EXEC without MULTI
+GET bank1 # 1000
+GET bank2 # 2000

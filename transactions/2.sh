@@ -1,6 +1,13 @@
 MULTI
+SET bank1 5000
+SET bank2 6000
+EXEC
+GET bank1 # 5000
+GET bank2 # 6000
+
+MULTI
 INCRBY bank1 500
 INCRBY bank2 200
 EXEC
-GET bank1
-GET bank2
+GET bank1 # 5500
+GET bank2 # 6200

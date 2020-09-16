@@ -2,5 +2,5 @@ MULTI
 SET bank1 5000
 SET bank2 6000
 EXEC
-GET bank1
-GET bank2
+GET bank1 # 5000
+GET bank2 # 6000
