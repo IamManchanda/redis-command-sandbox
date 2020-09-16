@@ -17,5 +17,5 @@ GET bank1 # 1400
 
 MULTI
 INCRBY bank1 100
-EXEC # nil
+EXEC # (nil)
 GET bank1 # 1400
