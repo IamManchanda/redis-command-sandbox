@@ -1,0 +1,6 @@
+MULTI
+INCRBY bank1 500
+INCRBY bank2 200
+EXEC
+GET bank1
+GET bank2
