@@ -8,3 +8,6 @@ GEODIST geopoints "Junction Road" Park m
 GEODIST geopoints "Junction Road" Park km
 GEODIST geopoints "Junction Road" Park mi
 GEODIST geopoints "Junction Road" Park ft
+
+GEODIST geopoints Park "Junction Road"
+GEODIST geopoints Park "Junction Road" mi
