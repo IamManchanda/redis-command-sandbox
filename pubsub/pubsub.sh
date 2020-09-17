@@ -1,3 +1,3 @@
-# publish channel message
+# PUBLISH channel message
 
-# subscribe channel [channel ...]
+# SUBSCRIBE channel [channel ...]

@@ -1,0 +1,1 @@
+# PSUBSCRIBE pattern [pattern ...]
