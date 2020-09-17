@@ -1,3 +1,5 @@
-# PUBLISH channel message
+# PUBSUB subcommand [argument [argument ...]]
 
-# SUBSCRIBE channel [channel ...]
+# PUBSUB NUMSUB [channel-1 ... channel-N]
+
+# PUBSUB NUMPAT
